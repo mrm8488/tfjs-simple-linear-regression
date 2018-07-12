@@ -3,4 +3,7 @@ code for Tensorflow.js video: [Try Tensorflow.js in your browser](https://www.yo
 
 In this webpage you will be able to create a linear regression model and play with it making some predictions.
 
+## Usage
+clone the repository and open the file **index.html** with *Google Chrome*
+
 
